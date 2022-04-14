@@ -19,9 +19,9 @@ Weather-App
 
 
 ## :house: About the project
-Aplicação completa de uma Clima Tempo.
+Aplicação que verifica a previsão do tempo de 7 dias em qualquer cidade do Brasil.
 
-Para a criação da interface foi utilizado: React e Axios para fazer chamadas Get a API HgBrasil.
+Para a criação da interface foi utilizado: React e Axios para consumir a API HgBrasil.
 
 <br>
 
