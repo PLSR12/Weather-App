@@ -24,6 +24,7 @@ Aplicação completa de uma Clima Tempo.
 Para a criação da interface foi utilizado: React e Axios para fazer chamadas Get a API HgBrasil.
 
 <br>
+
 ## :computer: Technologies
 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
